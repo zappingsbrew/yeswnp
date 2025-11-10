@@ -29,4 +29,4 @@ Thanks to
 - [@modkavartini](https://github.com/modkavartini) for the skin targeting system and UI
 - [@Nallantli](https://github.com/Nallantli) for the voice acting
 
-Original [No NowPlaying](https://github.com/reisir/nonp) by [@reisir](httpa://github.com/reisir)
+Original [No NowPlaying](https://github.com/reisir/nonp) by [@reisir](https://github.com/reisir)
